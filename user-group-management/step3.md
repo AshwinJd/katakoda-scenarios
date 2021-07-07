@@ -12,7 +12,7 @@ Create another user `adduser saradoe`{{execute}}
 
 Add user rondoe to sudo group using `usermod` command
 
-`usermod -aG sudo rondoe`{{execute}}
+`sudo usermod -aG sudo rondoe`{{execute}}
 
 Check the user is correctly added to the group by listing the groups user is part of:- `groups rondoe`
 
