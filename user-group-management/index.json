@@ -6,23 +6,23 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Create User",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Provide Password",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Sudo Access",
         "text": "step3.md"
       },
       {
-        "title": "Step 4",
+        "title": "Create Groups",
         "text": "step4.md"
       },
       {
-        "title": "Step 5",
+        "title": "Add Users To Group",
         "text": "step5.md"
       }
     ],
