@@ -1,5 +1,3 @@
-# Adding user to groups
-
 Add an existing user to a group using the command
 `sudo usermod -a -G <groupname> <username>`
 

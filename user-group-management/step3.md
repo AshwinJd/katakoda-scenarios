@@ -1,5 +1,3 @@
-# Sudo Group
-
 Most Linux systems, including Ubuntu, have a user group for sudo users. To grant the new user elevated privileges, add them to the sudo group.
 
 **Adding user to sudoers group**
